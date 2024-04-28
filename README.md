@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis un développeur passionné avec une spécialisation en [développement Web]. J'ai travaillé sur différents projets allant de [GemVogue] à [DriveEase]. Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
+Je suis un développeur passionné avec une spécialisation en développement Web. J'ai travaillé sur différents projets allant de [GemVogue](https://github.com/salahedarhri/gemvogue-jewelry-store) à [DriveEase](https://github.com/salahedarhri/driveease2.0-car-rental). Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
 
 <!-- ## Compétences
 
