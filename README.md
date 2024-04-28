@@ -1,16 +1,36 @@
-### Hi there 👋
+# Salah eddin ARHRIMAZ
 
-<!--
-**salahedarhri/salahedarhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
 
-Here are some ideas to get you started:
+Je suis un développeur passionné avec une spécialisation en [développement Web]. J'ai travaillé sur différents projets allant de [GemVogue] à [DriveEase]. Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ## Compétences
+
+- Langages de programmation : [Listez les langages dans lesquels vous êtes compétent]
+- Frameworks/Bibliothèques : [Listez les frameworks/bibliothèques avec lesquels vous avez de l'expérience]
+- Outils/Technologies : [Listez les outils/technologies que vous maîtrisez]
+- Autres compétences : [Toute compétence supplémentaire ou certification]
+
+## Projets
+
+Voici quelques projets remarquables sur lesquels j'ai travaillé :
+
+1. Nom du projet :
+   Description : [Description brève du projet]
+   Technologies : [Listez les technologies utilisées]
+
+2. Nom du projet :
+   Description : [Description brève du projet]
+   Technologies : [Listez les technologies utilisées]
+
+3. Nom du projet :
+   Description : [Description brève du projet]
+   Technologies : [Listez les technologies utilisées]
+
+## Contact
+
+- LinkedIn : [URL de votre profil LinkedIn]
+- Email : [Votre adresse e-mail]
+- Site Web : [URL de votre site Web personnel, le cas échéant]
+
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
