@@ -9,15 +9,15 @@
 ## À propos de moi
 
 Je suis un développeur passionné avec une spécialisation en développement Web.
-J'ai travaillé sur différents projets E-commerce allant de [GemVogue](https://github.com/salahedarhri/gemvogue-jewelry-store) à [DriveEase](https://github.com/salahedarhri/driveease2.0-car-rental).
-Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
+
+J'ai travaillé sur différents projets **E-commerce** allant de [GemVogue](https://github.com/salahedarhri/gemvogue-jewelry-store) à [DriveEase](https://github.com/salahedarhri/driveease2.0-car-rental).
 
 ## Compétences
 
-- Langages de programmation : PHP, C++, Java, JavaScript, HTML, CSS
-- Frameworks/Bibliothèques : Laravel, Livewire, Alpine.js, Tailwind CSS
-- Outils/Technologies : Git, MySQL, SQLITE
-- Autres compétences : Développement web, Développement d'applications ( Web Applications ), Conception d'interfaces utilisateur ( UI )
+* **Langages de programmation** : PHP, C++, Java, JavaScript, HTML, CSS
+* **Frameworks/Bibliothèques** : Laravel, Livewire, Alpine.js, Tailwind CSS
+* **Outils/Technologies** : Git, MySQL, SQLITE
+* **Autres compétences** : Développement web, Développement d'applications *(Web Apps)*, Conception d'interfaces utilisateur *(UI)*
 
 <!-- ## Projets
 
