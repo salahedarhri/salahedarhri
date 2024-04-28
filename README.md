@@ -1,5 +1,11 @@
 # Salah eddin ARHRIMAZ
 
+<div>
+    <a target='_blank' href="https://linkedin.com/in/salaheddinarhrimaz">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</div>
+
 ## À propos de moi
 
 Je suis un développeur passionné avec une spécialisation en développement Web.
