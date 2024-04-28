@@ -2,16 +2,18 @@
 
 ## À propos de moi
 
-Je suis un développeur passionné avec une spécialisation en développement Web. J'ai travaillé sur différents projets allant de [GemVogue](https://github.com/salahedarhri/gemvogue-jewelry-store) à [DriveEase](https://github.com/salahedarhri/driveease2.0-car-rental). Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
+Je suis un développeur passionné avec une spécialisation en développement Web.
+J'ai travaillé sur différents projets E-commerce allant de [GemVogue](https://github.com/salahedarhri/gemvogue-jewelry-store) à [DriveEase](https://github.com/salahedarhri/driveease2.0-car-rental).
+Je m'épanouis dans des environnements où la créativité et l'innovation sont encouragées.
 
-<!-- ## Compétences
+## Compétences
 
-- Langages de programmation : [Listez les langages dans lesquels vous êtes compétent]
-- Frameworks/Bibliothèques : [Listez les frameworks/bibliothèques avec lesquels vous avez de l'expérience]
-- Outils/Technologies : [Listez les outils/technologies que vous maîtrisez]
-- Autres compétences : [Toute compétence supplémentaire ou certification]
+- Langages de programmation : PHP, C++, Java, JavaScript, HTML, CSS
+- Frameworks/Bibliothèques : Laravel, Livewire, Alpine.js, Tailwind CSS
+- Outils/Technologies : Git, MySQL, SQLITE
+- Autres compétences : Développement web, Développement d'applications ( Web Applications ), Conception d'interfaces utilisateur ( UI )
 
-## Projets
+<!-- ## Projets
 
 Voici quelques projets remarquables sur lesquels j'ai travaillé :
 
@@ -31,6 +33,6 @@ Voici quelques projets remarquables sur lesquels j'ai travaillé :
 
 - LinkedIn : [URL de votre profil LinkedIn]
 - Email : [Votre adresse e-mail]
-- Site Web : [URL de votre site Web personnel, le cas échéant]
+- Site Web : [URL de votre site Web personnel, le cas échéant] -->
 
 N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
