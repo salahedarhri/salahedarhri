@@ -7,7 +7,7 @@ Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
 ![](https://github-readme-stats.vercel.app/api?username=salahedarhri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
-## Projects
+# Projects
 
 **GemVogue**  
 [Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
