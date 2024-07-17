@@ -1,21 +1,20 @@
 # Salah eddin ARHRIMAZ
 Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
-- I've been programming back-end for the last 2 years, mainly Laravel with many projects,<br>
-- Currently learning about Artificial Intelligence related to Web Development,<br>
+- I've been programming Full-stack for the last 2 years ( focusing mainly on Back-End ), using Laravel with many projects.<br>
+- Currently learning about React & JS Frameworks ( Next.js, Redux, Chakra UI, .. ) and IA related to Web Development,<br>
 - Besides that, I'm a fan of Digital Art using Krita.<br>
 
-![](https://github-readme-stats.vercel.app/api?username=salahedarhri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+<!-- ![](https://github-readme-stats.vercel.app/api?username=salahedarhri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 # Projects
 
-**GemVogue**  
+### - **GemVogue**  
 [Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
-**DriveEase**  
+### - **DriveEase**  
 [Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease-car-rental) (*Earlier Version*)
 
-**ImageSizeify**  
+### - **ImageSizeify**  
 [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
 
 # Tech Stack:
