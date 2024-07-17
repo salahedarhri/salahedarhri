@@ -1,6 +1,6 @@
 # Salah eddin ARHRIMAZ
 Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
-- I've been programming back-end for the last 2 years, mainly Laravel with many projects lately,<br>
+- I've been programming back-end for the last 2 years, mainly Laravel with many projects,<br>
 - Currently learning about Artificial Intelligence related to Web Development,<br>
 - Besides that, I'm a fan of Digital Art using Krita.<br>
 
