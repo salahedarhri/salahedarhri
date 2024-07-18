@@ -17,7 +17,8 @@ Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
 ### - **ImageSizeify**  
 [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
 
-# Tech Stack:
+# Tech Stack
+
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
@@ -44,7 +45,8 @@ Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# Contact:
+# Contact
+
 <div>
     <a target='_blank' href="https://linkedin.com/in/salaheddinarhrimaz">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
