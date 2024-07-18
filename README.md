@@ -9,10 +9,10 @@ Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
 # Projects
 
 ### **💍 GemVogue**  
-- 🌐 [Visit The Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
+-  [Visit The Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
 ### **🚘 DriveEase**  
-- 🌐 [Visit The Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease-car-rental) (*Earlier Version*)
+-  [Visit The Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease-car-rental) (*Earlier Version*)
 
 ### **ImageSizeify**  
 - [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
