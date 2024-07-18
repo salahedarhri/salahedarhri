@@ -8,14 +8,14 @@ Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
 
 # Projects
 
-### - **GemVogue**  
-[Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
+### **💍 GemVogue**  
+- 🌐 [Visit The Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
-### - **DriveEase**  
-[Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease-car-rental) (*Earlier Version*)
+### **🚘 DriveEase**  
+- 🌐 [Visit The Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease-car-rental) (*Earlier Version*)
 
-### - **ImageSizeify**  
-[GitHub Repository](https://github.com/salahedarhri/image-sizeify)
+### **ImageSizeify**  
+- [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
 
 # Tech Stack
 
