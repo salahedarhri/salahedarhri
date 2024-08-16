@@ -1,5 +1,5 @@
 # Salah eddin ARHRIMAZ
-Hey, I'm a Laravel/PHP Back-end Web Developer,<br>
+Hey, I'm a Laravel/PHP Full Stack Web Developer,<br>
 - I've been programming Full-stack for the last 2 years ( focusing mainly on Back-End ), using Laravel with many projects.<br>
 - Currently learning about Java & few Back-end Frameworks ( Spring Boot, Express.js, Django, .. ) and IA related to Web Development,<br>
 - Besides that, I'm a fan of Digital Art using Krita.<br>
