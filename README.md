@@ -12,7 +12,7 @@ Hey, I'm a Laravel/PHP Full Stack Web Developer,<br>
 -  [Visit The Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
 ### **DriveEase**  
--  [Visit The Website](https://driveease-location.com) | [GitHub Repository (older version)](https://github.com/salahedarhri/driveease-car-rental) 
+-  [Visit The Website](https://driveease-location.com) | [GitHub Repository](https://github.com/salahedarhri/driveease2.0-car-rental) 
 
 ### **ImageSizeify**  
 - [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
