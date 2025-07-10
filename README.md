@@ -9,10 +9,10 @@ Hey, I'm a Laravel/PHP Full Stack Web Developer,<br>
 # Projects
 
 ### **GemVogue**  
--  [Visit The Website](https://gemvogue.fr) | [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
+-  [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
 ### **DriveEase**  
--  [Visit The Website](https://driveease-location.com) | [Version 2.0](https://github.com/salahedarhri/driveease2.0-car-rental) | [Version 1.0](https://github.com/salahedarhri/driveease-car-rental)
+-  [Version 2.0](https://github.com/salahedarhri/driveease2.0-car-rental) | [Version 1.0](https://github.com/salahedarhri/driveease-car-rental)
   
 ### **ImageSizeify**  
 - [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
