@@ -8,8 +8,6 @@ Hey, I'm a Laravel/PHP Full Stack Web Developer,<br>
 
 # Projects
 
-To be updated soon..
-<!-- 
 ### **GemVogue**  
 -  [GitHub Repository](https://github.com/salahedarhri/gemvogue-jewelry-store)
 
@@ -18,7 +16,7 @@ To be updated soon..
   
 ### **ImageSizeify**  
 - [GitHub Repository](https://github.com/salahedarhri/image-sizeify)
--->
+
 
 # Tech Stack
 
